@@ -1,0 +1,23 @@
+# Production requirements
+# List all packages that needed during runtime.
+
+# Adds package lookup in Mercado Libre's pypi
+--index-url https://pypi.artifacts.furycloud.io/
+werkzeug==0.16.1
+Flask
+flask-restx
+flask-sqlalchemy
+newrelic==4.18.0.118
+pymysql
+boto3
+melitk-melipass
+melitk-metrics
+melitk-logging
+melitk.bigqueue==0.2.13
+cryptography
+marshmallow
+retry
+flask_login
+flask_ldap3_login
+tiger_python_helper
+markupsafe==2.0.1
