@@ -24,10 +24,3 @@ Quien quiera agregar un SDK en otra tecnología, siéntase libre de contactarnos
 La aplicación cuenta con sus endpoints documentados usando [Swagger](https://swagger.io/docs/). De allí deberíamos poder sacar toda la información que necesitemos.
 
 > La API no fue diseñada para su interacción con usuarios. Puede haber mensajes de error no descriptivos de cara al usuario. El uso del SDK es alentado.
-
-## Contacto
-
-* Por cualquier duda, contactarnos por mail:
-  * BI ML Cross Team <bi-ml-cross@mercadolibre.com>
-  
-  o a través de un issue en el repo!
